@@ -1,2 +1,1 @@
-# MONTHLY-EXPENCE-TRACKER-
-This Project is About Mini Bank Management System Made By using C program With The Help Of Structures , Files And Functions
+The Monthly Expense Tracker is a C language–based program designed to help users record and manage their monthly expenses efficiently. The program allows users to enter expenses under different categories such as basic needs, lifestyle expenses, secondary expenses, and investments. It provides options to add new expenses and view a monthly summary, helping users understand their spending habits and manage finances better. This project uses fundamental C concepts like functions, conditional statements, loops, and strings.
